@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+<div align="center">
+  <br />
+    <h1>Onboarding Screen for a plant selling and monitoring app</h1>
+  <br />
 
-## Getting Started
+  <div>
+    <img src="https://img.shields.io/badge/-REACT_NATIVE-black?style=for-the-badge&logoColor=white&logo=React&color=61DAFB" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=Expo&color=000020" alt="Expo" />
+    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=TypeScript&color=3178C6" alt="three.js" />
+    <img src="https://img.shields.io/badge/-Android-black?style=for-the-badge&logoColor=white&logo=Android&color=34A853" alt="tailwindcss" />
+  </div>
 
-First, run the development server:
+  <h3 align="center">Day 1 of <b fontweight="bold">30Days-30Apps Challenge</b></h3>
+</div>
+
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
+6. 🔗 [Assets](#links)
+
+## <a name="introduction">🤖 Introduction</a>
+
+Built with React Native, GreenLeaf is your personal plant companion, designed to make plant care easy and enjoyable. Whether you’re a seasoned plant parent or just starting your green journey, we’re here to help you thrive.
+
+
+## <a name="tech-stack">⚙️ Tech Stack</a>
+
+- React Native
+- TypeScript
+- Expo
+- Android Studio
+
+## <a name="features">🔋 Features</a>
+
+👉 **Get Started**:  an essential component during onboarding and user engagement 
+👉 **React Navigation**: used for managing navigation in React Native applications
+👉 **Screens**:  play a crucial role in shaping the user experience. 
+
+## <a name="quick-start">🤸 Quick Start</a>
+
+Follow these steps to set up the project locally on your machine.
+
+**Prerequisites**
+
+Make sure you have the following installed on your machine:
+
+- [Git](https://git-scm.com/)
+- [NodeJS](https://nodejs.org/en)
+- [npm](https://www.npmjs.com/) (Node Package Manager)
+
+**Cloning the Repository**
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+git clone https://github.com/DarkShadowCoder/OnboardingScreen_app.git
+cd OnboardingScreen_app
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Installation**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Install the project dependencies using npm:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm install
+```
 
-## Learn More
+**Running the Project**
 
-To learn more about Next.js, take a look at the following resources:
+```bash
+npx expo start --android
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Open ExpoGo in your mobile phone and scan QR code.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## <a name="links">🔗 Assets</a>
+<di
+Assets used in the project can be found [here](https://drive.google.com/file/d/1ZmtiMilUYTp1wkiXWMFX6AUk-msE981-/view?usp=sharing)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+ 
