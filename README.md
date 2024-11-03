@@ -6,13 +6,13 @@
   <br />
   <div>
     <br/>
-    <img src="https://img.shields.io/badge/-REACT_NATIVE-black?style=for-the-badge&logoColor=white&logo=React&color=61DAFB" alt="nextdotjs" />
-    <img src="https://img.shields.io/badge/-Expo-black?style=for-the-badge&logoColor=white&logo=Expo&color=000020" alt="Expo" />
+    <img src="https://img.shields.io/badge/-NexJS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=000020" alt="nextdotjs" />
+    <img src="https://img.shields.io/badge/-Framer_Motion-black?style=for-the-badge&logoColor=white&logo=framermotion&color=34A853" alt="Expo" />
     <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=TypeScript&color=3178C6" alt="three.js" />
-    <img src="https://img.shields.io/badge/-Android-black?style=for-the-badge&logoColor=white&logo=Android&color=34A853" alt="tailwindcss" />
+    <img src="https://img.shields.io/badge/-ReactJS-black?style=for-the-badge&logoColor=white&logo=React&color=61DAFB" alt="tailwindcss" />
   </div>
 
-  <h3 align="center">Day 2 of <b fontweight="bold">30Days-30Apps Challenge</b></h3>
+  <h3 align="center">Day 2 of <b><i>30Days-30Apps Challenge</i> </b></h3>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -80,7 +80,7 @@ Open ExpoGo in your mobile phone and scan QR code.
 ## <a name="links">🔗 Assets</a>
 <details>
   <summary><code> Interface ScreenShots</code></summary>
-  <img src="./docs/screen1.jpg" width="300px" height="100%" style="border-radius: 25px" />
+  <img src="./docs/screen1.png" width="900px" height="350" style="border-radius: 25px" />
 
 </details>
 This App is based on <a href="https://www.behance.net/isaiselvi">@IsaiselviP</a>'s design
